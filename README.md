@@ -1,4 +1,4 @@
-# OEM-Information-Changer
+# OEM Information Changer
 OEM Configurator: Portable Utility to Customize OEM Information and Logo in System Properties of Windows
 
 ---
